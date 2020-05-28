@@ -1,0 +1,19 @@
+{
+  "name": "games.nitwit.unitypackage",
+  "displayName": "Custom Unity Package Skeleton",
+  "version": "0.1.0",
+  "unity": "2019.3",
+  "description": "Custom Unity Package Description Goes Here",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "samples": [],
+  "dependencies": {},
+  "author": {
+    "name" : "Nit Wit Games",
+    "email" : "hello@nitwit.games",
+    "url" : "https://nitwit.games"
+  }
+}
